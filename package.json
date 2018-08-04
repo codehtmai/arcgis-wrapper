@@ -1,6 +1,6 @@
 {
   "name": "arcgis-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper of the full build of the ArcGIS JS API",
   "main": "index.js",
   "author": "Enguerrand des Vaux",
