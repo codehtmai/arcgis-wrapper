@@ -1,8 +1,13 @@
 if(!window.esriBundle){
      throw `You didn't load any ArcGIS JS API Bundle into your application.
-     Please add the following tag to your index.htm file: 
+     
+     Please add the following tag to your index.html file: 
+
     <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/g3r4n/arcgispack@latest/esri-bundle/bundle.js"></script>
-    Or create your own bundle using arcgispack: https://github.com/g3r4n/arcgispack/blob/master/README.md`;
+
+    Or create your own bundle using arcgispack: https://github.com/g3r4n/arcgispack/blob/master/README.md
+    
+    `;
 }
 
 const esriConfig = window.esriBundle.esriConfig;
