@@ -244,6 +244,15 @@ const Lighting = window.esriBundle.Lighting;
 const Presentation = window.esriBundle.Presentation;
 const Slide = window.esriBundle.Slide;
 const SketchViewModel = window.esriBundle.SketchViewModel;
+const BasemapGallery = window.esriBundle.BasemapGallery;
+const Bookmarks = window.esriBundle.Bookmarks;
+const Compass = window.esriBundle.Compass;
+const Home = window.esriBundle.Home;
+const LayerList = window.esriBundle.LayerList;
+const Legend = window.esriBundle.Legend;
+const Print = window.esriBundle.Print;
+const Scale = window.esriBundle.Scale;
+const Search = window.esriBundle.Search;
 
 export {
   esriConfig,
@@ -475,5 +484,14 @@ export {
   Lighting,
   Presentation,
   Slide,
-  SketchViewModel
+  SketchViewModel, 
+  BasemapGallery,
+  Bookmarks,
+  Compass,
+  Home,
+  LayerList,
+  Legend,
+  Print,
+  Scale,
+  Search
 };
