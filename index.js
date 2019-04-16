@@ -247,11 +247,12 @@ const SketchViewModel = window.esriBundle.SketchViewModel;
 const BasemapGallery = window.esriBundle.BasemapGallery;
 const Bookmarks = window.esriBundle.Bookmarks;
 const Compass = window.esriBundle.Compass;
+const Expand = window.esriBundle.Expand;
 const Home = window.esriBundle.Home;
 const LayerList = window.esriBundle.LayerList;
 const Legend = window.esriBundle.Legend;
 const Print = window.esriBundle.Print;
-const Scale = window.esriBundle.Scale;
+const ScaleBar = window.esriBundle.ScaleBar;
 const Search = window.esriBundle.Search;
 
 export {
@@ -488,10 +489,11 @@ export {
   BasemapGallery,
   Bookmarks,
   Compass,
+  Expand,
   Home,
   LayerList,
   Legend,
   Print,
-  Scale,
+  ScaleBar,
   Search
 };
