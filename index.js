@@ -243,6 +243,7 @@ const InitialViewProperties = window.esriBundle.InitialViewProperties;
 const Lighting = window.esriBundle.Lighting;
 const Presentation = window.esriBundle.Presentation;
 const Slide = window.esriBundle.Slide;
+const SketchViewModel = window.esriBundle.SketchViewModel;
 
 export {
   esriConfig,
@@ -473,5 +474,6 @@ export {
   InitialViewProperties,
   Lighting,
   Presentation,
-  Slide
+  Slide,
+  SketchViewModel
 };
